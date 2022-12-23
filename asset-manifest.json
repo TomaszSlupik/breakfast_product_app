@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/breakfast_product_app/static/css/main.d33dc985.css",
+    "main.js": "/breakfast_product_app/static/js/main.2993b94c.js",
+    "index.html": "/breakfast_product_app/index.html",
+    "main.d33dc985.css.map": "/breakfast_product_app/static/css/main.d33dc985.css.map",
+    "main.2993b94c.js.map": "/breakfast_product_app/static/js/main.2993b94c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d33dc985.css",
+    "static/js/main.2993b94c.js"
+  ]
+}
